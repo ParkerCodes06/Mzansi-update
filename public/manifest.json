@@ -1,0 +1,13 @@
+{
+  "name": "MzansiUpdate — Soweto's Digital Newspaper",
+  "short_name": "MzansiUpdate",
+  "description": "Hyperlocal news and alerts for Soweto. Load shedding, SASSA grants, lotto, jobs, traffic, water, and weather.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

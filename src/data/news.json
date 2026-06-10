@@ -1,0 +1,52 @@
+[
+  {
+    "id": "news-sabc-1",
+    "title": "Gauteng MEC for Education launches school nutrition programme in Soweto",
+    "body": "The Gauteng Department of Education has launched the 2026 school nutrition programme at Orlando High School. The programme aims to provide meals to over 600,000 learners across the province.",
+    "source": "SABC News",
+    "sourceUrl": "https://www.sabcnews.com",
+    "sourcePage": "https://facebook.com/SABCNews",
+    "publishedAt": "2026-06-09T10:30:00.000Z",
+    "url": "https://www.sabcnews.com/sabcnews/gauteng-school-nutrition-programme/"
+  },
+  {
+    "id": "news-sabc-2",
+    "title": "Soweto residents urged to report illegal water connections",
+    "body": "Johannesburg Water has called on Soweto residents to report illegal water connections which are costing the municipality millions in lost revenue and causing supply disruptions.",
+    "source": "SABC News",
+    "sourceUrl": "https://www.sabcnews.com",
+    "sourcePage": "https://facebook.com/SABCNews",
+    "publishedAt": "2026-06-09T08:15:00.000Z",
+    "url": "https://www.sabcnews.com/sabcnews/illegal-water-connections-soweto/"
+  },
+  {
+    "id": "news-jmpd-1",
+    "title": "JMPD arrests 12 suspects in Soweto drug bust operation",
+    "body": "The Johannesburg Metropolitan Police Department conducted a successful drug bust in Diepkloof, Soweto, arresting 12 suspects and seizing drugs worth an estimated R500,000.",
+    "source": "JMPD",
+    "sourceUrl": "https://www.jmpd.org.za",
+    "sourcePage": "https://facebook.com/JMPDsouthafrica",
+    "publishedAt": "2026-06-09T06:00:00.000Z",
+    "url": "https://www.jmpd.org.za/news/drug-bust-diepkloof/"
+  },
+  {
+    "id": "news-jmpd-2",
+    "title": "Road safety operation in Soweto this weekend",
+    "body": "JMPD will conduct road safety operations across Soweto this weekend, focusing on drunk driving, unlicensed vehicles, and pedestrian safety. Motorists urged to comply.",
+    "source": "JMPD",
+    "sourceUrl": "https://www.jmpd.org.za",
+    "sourcePage": "https://facebook.com/JMPDsouthafrica",
+    "publishedAt": "2026-06-08T14:00:00.000Z",
+    "url": "https://www.jmpd.org.za/news/road-safety-soweto-weekend/"
+  },
+  {
+    "id": "news-sabc-3",
+    "title": "Eskom implements Stage 4 load shedding due to generation losses",
+    "body": "Eskom has moved to Stage 4 load shedding until further notice due to multiple generation unit failures. Soweto residents advised to check their block schedules.",
+    "source": "SABC News",
+    "sourceUrl": "https://www.sabcnews.com",
+    "sourcePage": "https://facebook.com/SABCNews",
+    "publishedAt": "2026-06-08T11:45:00.000Z",
+    "url": "https://www.sabcnews.com/sabcnews/eskom-stage-4-load-shedding/"
+  }
+]

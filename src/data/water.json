@@ -1,0 +1,22 @@
+[
+  {
+    "id": "water-1",
+    "title": "Burst Pipe — Mooki Street, Pimville Zone 2",
+    "description": "Joburg Water teams are repairing a burst water pipe on Mooki Street. Water supply to Pimville Zone 2 affected. Alternative water is available at Pimville Community Hall. Expected completion: 18:00.",
+    "areas": ["Pimville Zone 2"],
+    "status": "in-progress",
+    "source": "Joburg Water",
+    "sourceUrl": "https://twitter.com/johannesburgwater",
+    "publishedAt": "2026-06-09T06:15:00.000Z"
+  },
+  {
+    "id": "water-2",
+    "title": "Planned Maintenance — Diepkloof Zone 4",
+    "description": "Scheduled water maintenance in Diepkloof Zone 4 on 12 June 2026 from 08:00 to 16:00. Water supply will be interrupted. Store water in advance.",
+    "areas": ["Diepkloof Zone 4"],
+    "status": "scheduled",
+    "source": "Joburg Water",
+    "sourceUrl": "https://twitter.com/johannesburgwater",
+    "publishedAt": "2026-06-08T10:00:00.000Z"
+  }
+]

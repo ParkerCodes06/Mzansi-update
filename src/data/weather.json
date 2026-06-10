@@ -1,0 +1,38 @@
+[
+  {
+    "id": "weather-1",
+    "date": "2026-06-09",
+    "temperature": { "high": 28, "low": 16 },
+    "condition": "Thunderstorms",
+    "icon": "⛈️",
+    "rain": 70,
+    "wind": "15 km/h NW"
+  },
+  {
+    "id": "weather-2",
+    "date": "2026-06-10",
+    "temperature": { "high": 24, "low": 13 },
+    "condition": "Partly Cloudy",
+    "icon": "⛅",
+    "rain": 20,
+    "wind": "10 km/h SW"
+  },
+  {
+    "id": "weather-3",
+    "date": "2026-06-11",
+    "temperature": { "high": 22, "low": 11 },
+    "condition": "Sunny",
+    "icon": "☀️",
+    "rain": 5,
+    "wind": "8 km/h SE"
+  },
+  {
+    "id": "weather-4",
+    "date": "2026-06-12",
+    "temperature": { "high": 26, "low": 14 },
+    "condition": "Clear",
+    "icon": "🌙",
+    "rain": 0,
+    "wind": "12 km/h NE"
+  }
+]

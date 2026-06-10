@@ -1,0 +1,52 @@
+[
+  {
+    "id": "job-1",
+    "title": "General Worker — Soweto",
+    "company": "City of Johannesburg",
+    "location": "Soweto, Gauteng",
+    "description": "CoJ is hiring general workers for waste management services in Region D (Soweto). Grade 12 required. Valid ID and proof of residence.",
+    "url": "https://firstjobly.co.za/job/example-1",
+    "postedAt": "2026-06-07",
+    "source": "FirstJobly"
+  },
+  {
+    "id": "job-2",
+    "title": "Cashier — Protea Glen Mall",
+    "company": "Shoprite",
+    "location": "Protea Glen, Soweto",
+    "description": "Shoprite Protea Glen needs a cashier. Must have matric and retail experience. Flexible shifts including weekends.",
+    "url": "https://firstjobly.co.za/job/example-2",
+    "postedAt": "2026-06-05",
+    "source": "FirstJobly"
+  },
+  {
+    "id": "job-3",
+    "title": "Admin Clerk — Diepkloof",
+    "company": "Soweto Health Centre",
+    "location": "Diepkloof, Soweto",
+    "description": "Admin clerk position at Soweto Health Centre. Duties include patient registration, filing, and data entry. Must be computer literate.",
+    "url": "https://firstjobly.co.za/job/example-3",
+    "postedAt": "2026-06-03",
+    "source": "FirstJobly"
+  },
+  {
+    "id": "job-4",
+    "title": "Security Guard",
+    "company": "Fidelity ADT",
+    "location": "Meadowlands, Soweto",
+    "description": "Armed security guard needed for retail site in Meadowlands. PSIRA registered, grade B minimum. Must reside in Soweto.",
+    "url": "https://firstjobly.co.za/job/example-4",
+    "postedAt": "2026-06-02",
+    "source": "FirstJobly"
+  },
+  {
+    "id": "job-5",
+    "title": "Teacher Assistant — Naledi Primary",
+    "company": "Gauteng Department of Education",
+    "location": "Naledi, Soweto",
+    "description": "Phase 2 Teacher Assistant for Naledi Primary School. Must be 18-35, completed matric. Stipend of R4,500 per month.",
+    "url": "https://firstjobly.co.za/job/example-5",
+    "postedAt": "2026-06-01",
+    "source": "FirstJobly"
+  }
+]

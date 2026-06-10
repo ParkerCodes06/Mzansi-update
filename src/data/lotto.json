@@ -1,0 +1,56 @@
+[
+  {
+    "id": "lotto-1",
+    "game": "Lotto",
+    "numbers": ["03", "12", "25", "38", "42", "47"],
+    "bonus": "15",
+    "jackpot": "R6,000,000",
+    "drawDate": "2026-06-06",
+    "winners": 1
+  },
+  {
+    "id": "lotto-2",
+    "game": "PowerBall",
+    "numbers": ["05", "18", "22", "34", "49"],
+    "bonus": "PB: 12",
+    "jackpot": "R14,000,000",
+    "drawDate": "2026-06-06",
+    "winners": 0
+  },
+  {
+    "id": "lotto-3",
+    "game": "Daily Lotto",
+    "numbers": ["07", "11", "19", "28", "36"],
+    "bonus": "",
+    "jackpot": "R500,000",
+    "drawDate": "2026-06-09",
+    "winners": 2
+  },
+  {
+    "id": "lotto-4",
+    "game": "Lotto Plus 1",
+    "numbers": ["08", "14", "21", "33", "41", "45"],
+    "bonus": "10",
+    "jackpot": "R3,000,000",
+    "drawDate": "2026-06-06",
+    "winners": 0
+  },
+  {
+    "id": "lotto-5",
+    "game": "Lotto Plus 2",
+    "numbers": ["02", "17", "26", "39", "44", "48"],
+    "bonus": "06",
+    "jackpot": "R2,500,000",
+    "drawDate": "2026-06-06",
+    "winners": 3
+  },
+  {
+    "id": "lotto-6",
+    "game": "PowerBall Plus",
+    "numbers": ["09", "15", "27", "31", "42"],
+    "bonus": "PB: 08",
+    "jackpot": "R1,200,000",
+    "drawDate": "2026-06-06",
+    "winners": 1
+  }
+]

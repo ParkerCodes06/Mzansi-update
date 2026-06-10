@@ -1,0 +1,56 @@
+[
+  {
+    "id": "alert-1",
+    "title": "Load Shedding Stage 3 — Soweto",
+    "body": "Eskom has implemented Stage 3 load shedding from 14:00 to 18:30 today. Affected blocks: 5, 6, 7, 8 in Soweto. Check your block schedule below.",
+    "category": "loadshedding",
+    "severity": "warning",
+    "source": "EskomSePush",
+    "wardIds": [],
+    "publishedAt": "2026-06-09T08:00:00.000Z",
+    "expiresAt": "2026-06-09T18:30:00.000Z"
+  },
+  {
+    "id": "alert-2",
+    "title": "SASSA Grant Payments — June 2026",
+    "body": "SASSA June payments begin: Older persons (05 Jun), Disability (06 Jun), Children's grants (07 Jun). Visit your nearest SASSA office or SASSA card merchant.",
+    "category": "sassa",
+    "severity": "info",
+    "source": "SASSA",
+    "wardIds": [],
+    "publishedAt": "2026-06-01T06:00:00.000Z"
+  },
+  {
+    "id": "alert-3",
+    "title": "Water Supply Interruption — Pimville Zone 2",
+    "body": "Joburg Water reports a burst pipe on Mooki Street. Repairs underway. Water supply expected to resume by 18:00. Alternative water supply provided at Pimville Community Hall.",
+    "category": "water",
+    "severity": "critical",
+    "source": "Joburg Water",
+    "sourceUrl": "https://twitter.com/johannesburgwater",
+    "wardIds": ["ward-21"],
+    "publishedAt": "2026-06-09T07:30:00.000Z"
+  },
+  {
+    "id": "alert-4",
+    "title": "Road Closure — Chris Hani Road",
+    "body": "Chris Hani Road between Old Potchefstroom and Klipspruit Valley Road closed due to a taxi accident. Use alternative routes via N12 or Soweto Highway.",
+    "category": "traffic",
+    "severity": "warning",
+    "source": "JRA",
+    "sourceUrl": "https://twitter.com/JoburgRoads",
+    "wardIds": [],
+    "publishedAt": "2026-06-09T06:45:00.000Z"
+  },
+  {
+    "id": "alert-5",
+    "title": "Weather Warning — Thunderstorms Expected",
+    "body": "SAWS has issued a yellow level 2 warning for severe thunderstorms in the Gauteng region, including Soweto. Expect heavy rain, strong winds, and possible hail from 15:00.",
+    "category": "weather",
+    "severity": "warning",
+    "source": "SAWS",
+    "sourceUrl": "https://www.weathersa.co.za",
+    "wardIds": [],
+    "publishedAt": "2026-06-09T05:00:00.000Z"
+  }
+]

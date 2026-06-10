@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sassa-1",
+    "year": 2026,
+    "month": 6,
+    "paymentType": "Older Persons Grant",
+    "startDate": "2026-06-05",
+    "endDate": "2026-06-07",
+    "description": "Older Persons Grant (60+ years) payment window opens 05 June 2026. Collect at SASSA office, Post Office, or registered merchants."
+  },
+  {
+    "id": "sassa-2",
+    "year": 2026,
+    "month": 6,
+    "paymentType": "Disability Grant",
+    "startDate": "2026-06-06",
+    "endDate": "2026-06-08",
+    "description": "Disability Grant payment window opens 06 June 2026. Collect at SASSA office, Post Office, or registered merchants."
+  },
+  {
+    "id": "sassa-3",
+    "year": 2026,
+    "month": 6,
+    "paymentType": "Child Support Grant",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-10",
+    "description": "Child Support Grant payment window opens 07 June 2026. Collect at SASSA office, Post Office, or registered merchants."
+  },
+  {
+    "id": "sassa-4",
+    "year": 2026,
+    "month": 6,
+    "paymentType": "Foster Child Grant",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-10",
+    "description": "Foster Child Grant payment window opens 07 June 2026. Collect at SASSA office, Post Office, or registered merchants."
+  },
+  {
+    "id": "sassa-5",
+    "year": 2026,
+    "month": 6,
+    "paymentType": "Care Dependency Grant",
+    "startDate": "2026-06-07",
+    "endDate": "2026-06-10",
+    "description": "Care Dependency Grant payment window opens 07 June 2026. Collect at SASSA office, Post Office, or registered merchants."
+  }
+]

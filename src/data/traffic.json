@@ -1,0 +1,22 @@
+[
+  {
+    "id": "traffic-1",
+    "title": "Chris Hani Road Closed — Taxi Accident",
+    "description": "Chris Hani Road between Old Potchefstroom Road and Klipspruit Valley Road is closed due to a taxi accident. Emergency services on scene. Use N12 or Soweto Highway as alternative.",
+    "location": "Chris Hani Road, Soweto",
+    "severity": "major",
+    "source": "JRA",
+    "sourceUrl": "https://twitter.com/JoburgRoads",
+    "publishedAt": "2026-06-09T06:30:00.000Z"
+  },
+  {
+    "id": "traffic-2",
+    "title": "Heavy Traffic on Soweto Highway",
+    "description": "Soweto Highway (R553) between Booysens and Diepkloof experiencing heavy traffic due to roadworks. Expect delays of 20-30 minutes.",
+    "location": "Soweto Highway, Diepkloof",
+    "severity": "moderate",
+    "source": "CoJ Traffic",
+    "sourceUrl": "https://twitter.com/CoJTraffic",
+    "publishedAt": "2026-06-09T07:00:00.000Z"
+  }
+]
